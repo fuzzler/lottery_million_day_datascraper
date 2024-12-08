@@ -1,0 +1,79 @@
+Numeri piu usciti:
+****************************************************************************
+9: 318 estrazioni
+54: 310 estrazioni
+17: 307 estrazioni
+43: 305 estrazioni
+52: 304 estrazioni
+20: 303 estrazioni
+51: 301 estrazioni
+30: 301 estrazioni
+16: 299 estrazioni
+53: 298 estrazioni
+27: 296 estrazioni
+2: 296 estrazioni
+1: 292 estrazioni
+25: 291 estrazioni
+3: 291 estrazioni
+
+----------------------------------------------------------------------------
+
+piu usciti con 9:
+32: 34 volte
+51: 33 volte
+18: 31 volte
+54: 31 volte
+3: 30 volte
+43: 29 volte
+39: 29 volte
+52: 29 volte
+53: 28 volte
+27: 28 volte
+1: 28 volte
+44: 28 volte
+10: 27 volte
+35: 27 volte
+15: 27 volte
+
+Possibili combinazioni con 9:
+9 18 32 34 54 
+
+--------------------------------------------------------------------------------
+
+Piu usciti con 54:
+
+23: 34 volte
+6: 32 volte
+9: 31 volte
+19: 31 volte
+52: 31 volte
+17: 29 volte
+31: 28 volte
+50: 28 volte
+8: 28 volte
+20: 28 volte
+14: 28 volte
+32: 27 volte
+37: 27 volte
+49: 26 volte
+53: 26 volte
+
+---------------------------------------------------------------------------------
+
+più estratti insieme al numero 17, ordinati per frequenza:
+
+38: 37 estrazioni
+45: 35 estrazioni
+53: 31 estrazioni
+29: 29 estrazioni
+54: 29 estrazioni
+34: 28 estrazioni
+1: 27 estrazioni
+41: 27 estrazioni
+51: 27 estrazioni
+22: 25 estrazioni
+48: 25 estrazioni
+14: 25 estrazioni
+16: 25 estrazioni
+2: 25 estrazioni
+24: 24 estrazioni
